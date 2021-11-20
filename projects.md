@@ -3,7 +3,7 @@ layout: page
 permalink: /projects/
 ---
 
-<!-- Few list some of my project. 
+Few list some of my project. 
 
 1. [[TF.Keras] Melanoma Classification Starter, TabNet](https://www.kaggle.com/ipythonx/tf-keras-melanoma-classification-starter-tabnet)
 
@@ -35,6 +35,5 @@ Hosted in kaggle. Genuine, means no fork of other work.
 
 
 
- -->
 
 
