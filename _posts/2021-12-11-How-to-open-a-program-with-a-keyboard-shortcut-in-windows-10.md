@@ -19,9 +19,9 @@ Once we've pinned the apps that interest us to the taskbar, we can open them by 
 
 To open these apps, we can now use the following keyboard shortcuts:
 
--*Windows + 1 for Everything*
--*Windows + 2 for Microsoft Edge*
--*Windows + 2 for Microsoft Store*
--*Windows + 4 for Mail*
+- *Windows + 1 for Everything*
+- *Windows + 2 for Microsoft Edge*
+- *Windows + 2 for Microsoft Store*
+- *Windows + 4 for Mail*
 
 We can do this with the first nine apps pinned to the taskbar, each getting their number from 1 to 9, based on their position
