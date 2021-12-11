@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How-to-open-a-program-with-a-keyboard-shortcut-in-windows-10
+title: How to open a program with a keyboard shortcut in windows 10
 excerpt: A simple way of opening an app in windows 10 using keyboard shortcut 
 
 ---
